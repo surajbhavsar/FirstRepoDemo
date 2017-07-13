@@ -51,5 +51,8 @@
     [annotation setCoordinate:coordinate];
     [self.map_view addAnnotation:annotation];
 }
-
+- (void) newMethodCreated
+{
+    
+}
 @end
